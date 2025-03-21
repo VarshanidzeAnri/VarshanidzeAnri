@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **CRM Platform**
+  <!--🔭 I’m currently working on **CRM Platform**-->
  
- //🌱 I’m currently learning **Docker, System Design, Database Design, Web Servers**
+ <!-- 🌱 I’m currently learning **Docker, System Design, Database Design, Web Servers** -->
 
-💬 Ask me about **Node.js, React, PHP, Go, C**
+💬 Ask me about **PHP, Laravel, React
 
  </div>
  
