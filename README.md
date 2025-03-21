@@ -19,12 +19,16 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:anrivarshanidze11@gmail.com">
-    Gmail: <bold>anrivarshanidze11@gmail.com</bold>
-  </a><br />
-  <a href="https://www.linkedin.com/in/anri-varshanidze/" target="_blank" style="margin-top:10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+  <div>
+      <a href="mailto:anrivarshanidze11@gmail.com">
+        Gmail: <bold>anrivarshanidze11@gmail.com</bold>
+      </a>
+  </div>
+  <div>
+      <a href="https://www.linkedin.com/in/anri-varshanidze/" target="_blank" style="margin-top:10px;">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+      </a>
+  </div>
 </div>
 
  <hr/>
