@@ -26,7 +26,8 @@
   </div>
   <div>
       <a href="mailto:anrivarshanidze11@gmail.com">
-        Gmail: <bold>anrivarshanidze11@gmail.com</bold>
+              <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+         <bold>anrivarshanidze11@gmail.com</bold>
       </a>
   </div>
 
