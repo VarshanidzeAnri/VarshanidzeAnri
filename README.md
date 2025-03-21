@@ -12,11 +12,9 @@
  
  🔭 I’m currently working on **CRM Platform**
  
- 🌱 I’m currently learning **Docker, System Design, Database Design, Web Servers**
+ //🌱 I’m currently learning **Docker, System Design, Database Design, Web Servers**
 
 💬 Ask me about **Node.js, React, PHP, Go, C**
-
-⚡ Fun fact **My GF is my Sugar Momma**
 
  </div>
  
