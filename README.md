@@ -26,9 +26,9 @@
   </div>
 
 
-  <div>
+  <div>Gmail:
      <a href="mailto:anrivarshanidze11@gmail.com">
-         Gmail: anrivarshanidze11@gmail.com
+          anrivarshanidze11@gmail.com
      </a>
   </div>
 
