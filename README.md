@@ -24,10 +24,12 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
       </a>
   </div>
-  <div>
- <a href="mailto:anrivarshanidze11@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"> anrivarshanidze11@gmail.com</a>
-
-  </div>
+<p align="left">
+  <a href="mailto:anrivarshanidze11@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail">
+    <span style="font-weight: bold; font-size: 16px; color: #333333;"> anrivarshanidze11@gmail.com</span>
+  </a>
+</p>
 
 </div>
 
