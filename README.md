@@ -25,10 +25,8 @@
       </a>
   </div>
   <div>
-<a href="mailto:anrivarshanidze11@gmail.com" style="display: flex; align-items: center; gap: 8px; text-decoration: none; color: inherit;">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge" />
-    <strong>anrivarshanidze11@gmail.com</strong>
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:anrivarshanidze11@gmail.com)  
+**anrivarshanidze11@gmail.com**
   </div>
 
 </div>
